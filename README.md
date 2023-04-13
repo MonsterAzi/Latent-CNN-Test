@@ -1,2 +1,2 @@
-# Latent Diffusion Test
-A test of Latent Diffusion.
+# Latent CNN Test
+A test of Latent CNNs.
